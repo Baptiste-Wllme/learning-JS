@@ -3,29 +3,94 @@
         "id": 1,
         "nom": "Ampoule LED",
         "prix": 60,
-        "categorie": "Optiques"
+        "categorie": "Optiques",
+        "image" : "images/ampoule-led.png",
+        "description": "Distance d’éclairage : 100 mètres !",
+        "disponibilite": true
     },
     {
         "id": 2,
         "nom": "Plaquettes de frein (x4)",
         "prix": 40,
-        "categorie": "Freinage"
+        "categorie": "Freinage",
+        "image": "images/plaquettes-frein.png",
+        "description":"Une qualité de freinage optimale, par tous les temps.",
+        "disponibilite": true
     },
     {
         "id": 3,
         "nom": "Ampoule boîte à gants",
         "prix": 5.49,
-        "categorie": "Optiques"
+        "categorie": "Optiques",
+        "image": "images/ampoule-boite-a-gants.png",
+        "description": "Pour y voir clair dans l’habitacle.",
+        "disponibilite": false
+        
     },
     {
         "id": 4,
         "nom": "Liquide de frein",
         "prix": 9.60,
-        "categorie": "Freinage"
+        "categorie": "Freinage",
+        "image": " images/liquide-frein.png",
+        "disponibilite" : true
+        
+
     },
     {
         "id": 5,
         "nom": "Balai d'essuie-glace",
-        "prix": 29.10
+        "prix": 29.10,
+        "image":"images/balai-essuie-glace.png",
+        "description":"Performances d’essuyage au top ! Longueur : 550 mm.",
+        "disponibilite": true
+    },
+    {
+        "id": 6,
+        "nom": "Silver sur LOL ",
+        "prix": 69,
+        "categorie":"Sniffeur de raie",
+        "image": "images/pierre-boucher.jpg",
+        "description":"Se demande comment ganker une lane",
+        "disponibilite": true
+        
+    },
+    {
+        "id": 7,
+        "nom": "Coréen adopté",
+        "prix": 99,
+        "categorie":"Beau Gosse",
+        "image": "images/fabien.jpg",
+        "description":"Il sait comment te charmer",
+        "disponibilite": false
+    },
+    {
+        "id": 8,
+        "nom": "Elizazanne",
+        "prix": 100,
+        "categorie":"Femelle",
+        "image": "images/elisa.jpg",
+        "description":"Aime l'asiatique",
+        "disponibilite": false
+    },
+    {
+        "id": 9,
+        "nom": "Stellouille",
+        "prix": 96,
+        "categorie":"Femelle",
+        "image": "images/stella.jpg",
+        "description":"adore cuisiner",
+        "disponibilite": true
+    },
+    {
+        "id": 10,
+        "nom": "la grand-mère",
+        "prix": 45,
+        "categorie":"Femelle",
+        "image": "images/salomé.jpg",
+        "description":"stray kids in your area",
+        "disponibilite": true
     }
+    
+
 ]
